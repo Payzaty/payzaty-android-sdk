@@ -1,0 +1,3 @@
+rootProject.name = "PayzatySdk"
+include ':app'
+include ':payzaty'
